@@ -1,3 +1,4 @@
+ddddd
 eth0      Link encap:Ethernet  HWaddr f0:de:f1:ba:c7:26  
           UP BROADCAST MULTICAST  MTU:1500  Metric:1
           Packets reçus:0 erreurs:0 :0 overruns:0 frame:0

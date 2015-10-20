@@ -1,0 +1,27 @@
+eth0      Link encap:Ethernet  HWaddr f0:de:f1:ba:c7:26  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          Packets reçus:0 erreurs:0 :0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:1000 
+          Octets reçus:0 (0.0 B) Octets transmis:0 (0.0 B)
+          Interruption:20 Mémoire:f2500000-f2520000 
+
+lo        Link encap:Boucle locale  
+          inet adr:127.0.0.1  Masque:255.0.0.0
+          adr inet6: ::1/128 Scope:Hôte
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          Packets reçus:2136 erreurs:0 :0 overruns:0 frame:0
+          TX packets:2136 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:0 
+          Octets reçus:313150 (313.1 KB) Octets transmis:313150 (313.1 KB)
+
+wlan0     Link encap:Ethernet  HWaddr 10:0b:a9:a1:bc:48  
+          inet adr:192.168.200.1  Bcast:192.168.200.255  Masque:255.255.255.0
+          adr inet6: fe80::120b:a9ff:fea1:bc48/64 Scope:Lien
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          Packets reçus:36590 erreurs:0 :0 overruns:0 frame:0
+          TX packets:27706 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:1000 
+          Octets reçus:29903312 (29.9 MB) Octets transmis:4539567 (4.5 MB)
+
+PC Alexis Raffin
